@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
+| [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/picode0/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
