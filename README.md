@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/picode0/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
