@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/picode0/DSA/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
