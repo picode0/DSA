@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/picode0/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -149,9 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/picode0/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/picode0/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
