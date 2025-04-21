@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/picode0/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
+| [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/picode0/DSA/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/picode0/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 ## Sliding Window
 |  |
 | ------- |
