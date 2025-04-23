@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/picode0/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/picode0/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/picode0/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/picode0/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/picode0/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
