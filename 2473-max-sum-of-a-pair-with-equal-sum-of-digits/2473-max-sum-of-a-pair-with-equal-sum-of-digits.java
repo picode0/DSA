@@ -1,7 +1,7 @@
 class Solution {
     public int maximumSum(int[] nums) {
 
-        Map<Integer, List<Integer>> map = new HashMap<>();
+        Map<Integer, PriorityQueue<Integer>> map = new HashMap<>();
         for(int num:nums){
             int val = 0;
             int temp = num;
@@ -10,16 +10,15 @@ class Solution {
                 temp/=10;
             }
             //System.out.println(val);
-            List<Integer> list = map.getOrDefault(val, new ArrayList<>());
+            PriorityQueue<Integer> list = map.getOrDefault(val, new PriorityQueue<>( (a,b)-> b-a ));
             list.add(num);
             map.put(val, list);
         }
         int ret = -1;
-        for(Map.Entry<Integer,List<Integer>> entry : map.entrySet()){
-            List<Integer> list = entry.getValue();
+        for(Map.Entry<Integer,PriorityQueue<Integer>> entry : map.entrySet()){
+            PriorityQueue<Integer> list = entry.getValue();
             if(list.size()>=2){
-                Collections.sort(list);
-                ret = Math.max(ret, list.get(list.size()-1) + list.get(list.size()-2));
+                ret = Math.max(ret, list.poll() + list.poll());
             }
         }
 
