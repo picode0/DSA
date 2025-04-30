@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/picode0/DSA/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/picode0/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/picode0/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/picode0/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
