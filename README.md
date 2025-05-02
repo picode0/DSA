@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/picode0/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/picode0/DSA/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/picode0/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
