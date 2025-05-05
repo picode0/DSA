@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/picode0/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 ## Design
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/picode0/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/picode0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Counting Sort
