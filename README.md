@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/picode0/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 ## String
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/picode0/DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/picode0/DSA/tree/master/0130-surrounded-regions) |
