@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
