@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Two Pointers
