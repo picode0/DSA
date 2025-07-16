@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0512-maximum-alternating-subarray-sum](https://github.com/picode0/DSA/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/picode0/DSA/tree/master/0512-maximum-alternating-subarray-sum) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## String
 |  |
 | ------- |
