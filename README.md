@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/picode0/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/picode0/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/picode0/DSA/tree/master/0512-maximum-alternating-subarray-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/picode0/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/picode0/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## String
 |  |
