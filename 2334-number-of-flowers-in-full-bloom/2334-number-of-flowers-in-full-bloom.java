@@ -23,7 +23,7 @@ class Solution {
         int[] ret = new int[people.length];
 
         for(int i=0;i<people.length;i++){
-            System.out.println(binaryS(startTime, people[i]) + " " + binaryS(endTime, people[i]));
+            //System.out.println(binaryS(startTime, people[i]) + " " + binaryS(endTime, people[i]));
             ret[i] = binaryS(startTime,people[i]) - binaryS(endTime,people[i]);
         }
         return ret;
