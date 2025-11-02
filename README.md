@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/picode0/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/picode0/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2630-alternating-digit-sum](https://github.com/picode0/DSA/tree/master/2630-alternating-digit-sum) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Randomized
 |  |
