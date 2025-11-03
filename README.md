@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/picode0/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/picode0/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/picode0/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
 | ------- |
