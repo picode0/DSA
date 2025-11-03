@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2630-alternating-digit-sum](https://github.com/picode0/DSA/tree/master/2630-alternating-digit-sum) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/picode0/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Randomized
