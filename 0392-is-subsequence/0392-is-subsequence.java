@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<t.length();i++){
             if(t.charAt(i)==s.charAt(sidx)){
                 sidx++;
-                if(++cnt==s.length() || sidx==s.length())
+                if(++cnt==s.length())
                     return true;
             }
         }
