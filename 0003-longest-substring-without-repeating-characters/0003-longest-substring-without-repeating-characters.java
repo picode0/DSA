@@ -10,7 +10,7 @@ class Solution {
                 left = Math.max(left,map.get(c) + 1);
 
             ans = Math.max(ans, right-left+1);
-            System.out.println("right " + right + " left " + left + " " + ans);
+            //System.out.println("right " + right + " left " + left + " " + ans);
             map.put(c, right);
         }
         return ans;
