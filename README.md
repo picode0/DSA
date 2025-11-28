@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/picode0/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/picode0/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/picode0/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/picode0/DSA/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
