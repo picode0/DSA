@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/picode0/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/picode0/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/picode0/DSA/tree/master/0056-merge-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/picode0/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/picode0/DSA/tree/master/0086-partition-list) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/picode0/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/picode0/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
