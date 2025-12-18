@@ -1,5 +1,5 @@
 class Solution {
-
+    
     public int earliestAcq(int[][] logs, int n) {
         Arrays.sort(logs, (a,b)->a[0]-b[0]);
         int[] group = new int[n]; 
@@ -10,13 +10,11 @@ class Solution {
         }
         int groupCnt = n;
         for(int[] log: logs){
-            int firstGroup = find(group, log[1]);
-            int secondGroup = find(group, log[2]);
-            if(firstGroup!=secondGroup){
-                union(group, size, log[1], log[2]);
-                if(--groupCnt==1)
-                    return log[0];
+
+            if(union(group,size,log[1],log[2]) && --groupCnt==1){
+                return log[0];
             }
+    
         }
         return -1;
 
@@ -28,15 +26,21 @@ class Solution {
         return group[person];
     }
 
-    public void union(int[] group, int[] size, int firstPerson, int secondPerson){
-        if(size[firstPerson] < size[secondPerson]) union(group, size, secondPerson, firstPerson);
+    public boolean union(int[] group, int[] size, int firstPerson, int secondPerson){
 
-        int firstRoot = find(group, firstPerson);
-        int secondRoot = find(group, secondPerson);
-        group[secondRoot] = firstRoot;
-        size[firstRoot]+=size[secondRoot];
-        // 0 1 2 3
-        // 1 1 1 1
+        int firstGroup = find(group, firstPerson);
+        int secondGroup = find(group, secondPerson);
+
+        if(size[firstGroup] < size[secondGroup]) return union(group, size, secondPerson, firstPerson);
+
+        if(firstGroup==secondGroup)
+            return false;
+
+
+        group[secondGroup] = firstGroup;
+        size[firstGroup]+=size[secondGroup];
+        return true;
+
     }
 
 
