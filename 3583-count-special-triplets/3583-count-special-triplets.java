@@ -13,10 +13,12 @@ class Solution {
         for(int num:nums){
             int target = num*2;
             int lcount = leftCnt.getOrDefault(target,0);
-            leftCnt.put(num, leftCnt.getOrDefault(num,0)+1);
-            int rcount = rightCnt.getOrDefault(target,0)-leftCnt.getOrDefault(target,0);
-            //System.out.println(lcount + " " + rcount);
+
+            rightCnt.put(num, rightCnt.get(num)-1);
             
+            int rcount = rightCnt.getOrDefault(target,0);
+            //System.out.println(lcount + " " + rcount);
+            leftCnt.put(num, leftCnt.getOrDefault(num,0)+1);
             //rightCnt.remove(num);
             ret = (ret + (long)lcount*rcount)%mod;
         }
