@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/picode0/DSA/tree/master/0932-monotonic-array) |
+| [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/picode0/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
+| [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/picode0/DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/picode0/DSA/tree/master/0670-maximum-swap) |
+| [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Data Stream
 |  |
