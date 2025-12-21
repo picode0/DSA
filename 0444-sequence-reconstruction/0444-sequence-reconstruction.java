@@ -45,7 +45,7 @@ class Solution {
             }
             idx++;
         }
-        return idx==nums.length;
+        return true;
 
     }
 }
