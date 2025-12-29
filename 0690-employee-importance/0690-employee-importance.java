@@ -8,15 +8,13 @@ class Employee {
 */
 
 class Solution {
+    Map<Integer, Employee> map = new HashMap<>();
     public int getImportance(List<Employee> employees, int id) {
         
-        Map<Integer, Employee> map = new HashMap<>();
-        
-
         for(Employee emp: employees){
             map.put(emp.id, emp);
         }
-
+        /*
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(id);
 
@@ -29,7 +27,15 @@ class Solution {
             }
         }
         return ret;
-        
+        */
+        return dfs(id);
+    }
 
+    public int dfs(int id){
+        
+        int ret = map.get(id).importance;
+        for(int sub: map.get(id).subordinates)
+            ret+=dfs(sub);
+        return ret;
     }
 }
