@@ -9,15 +9,12 @@ class Employee {
 
 class Solution {
     public int getImportance(List<Employee> employees, int id) {
-        Map<Integer, List<Integer>> map = new HashMap<>();
-        int[] imp = new int[2001];
-        Arrays.fill(imp, 101);
+        
+        Map<Integer, Employee> map = new HashMap<>();
+        
 
         for(Employee emp: employees){
-            imp[emp.id] = emp.importance;
-            map.putIfAbsent(emp.id, new ArrayList<>());
-            for(int sub: emp.subordinates)
-                map.get(emp.id).add(sub);
+            map.put(emp.id, emp);
         }
 
         Queue<Integer> queue = new LinkedList<>();
@@ -26,12 +23,13 @@ class Solution {
         int ret = 0;
         while(!queue.isEmpty()){
             int poll = queue.poll();
-            ret += imp[poll];
-            for(int sub: map.get(poll)){
+            ret += map.get(poll).importance;
+            for(int sub: map.get(poll).subordinates){
                 queue.offer(sub);
             }
         }
         return ret;
+        
 
     }
 }
