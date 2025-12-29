@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/picode0/DSA/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/picode0/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/picode0/DSA/tree/master/0474-ones-and-zeroes) |
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/picode0/DSA/tree/master/0512-maximum-alternating-subarray-sum) |
+| [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/picode0/DSA/tree/master/0932-monotonic-array) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/picode0/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
