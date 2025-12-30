@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/picode0/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
+| [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/picode0/DSA/tree/master/2630-alternating-digit-sum) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/picode0/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/picode0/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
