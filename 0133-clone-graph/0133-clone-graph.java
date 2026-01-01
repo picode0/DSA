@@ -25,11 +25,25 @@ class Solution {
             return null;
         map.put(node, new Node(node.val));
 
-        dfs(node);
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(node);
+
+        while(!queue.isEmpty()){
+            Node poll = queue.poll();
+            for(Node neighbor: poll.neighbors){
+                if(!map.containsKey(neighbor)){
+                    map.put(neighbor, new Node(neighbor.val));
+                    queue.offer(neighbor);
+                }
+                map.get(poll).neighbors.add(map.get(neighbor));
+            }
+
+        }
+        //dfs(node);
         return map.get(node);
         
     }
-
+    /*
     public void dfs(Node node){
         for(Node neighbor : node.neighbors){
             if(!map.containsKey(neighbor)){
@@ -39,4 +53,5 @@ class Solution {
             map.get(node).neighbors.add(map.get(neighbor));
         }
     }
+    */
 }
