@@ -8,42 +8,57 @@
  * }
  */
 public class Codec {
-    int idx;
+
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        //StringBuilder sb = new StringBuilder();
+        Queue<TreeNode> queue = new LinkedList<>();
+        StringBuilder sb = new StringBuilder();
 
-        if(root==null)
-            return "null";
-        
-        //System.out.println(root.val);
-        return root.val + "," + serialize(root.left) + "," + serialize(root.right);
+        queue.offer(root);
+        // ,1,2,Null,Null
+        // q = 3 
+        while(!queue.isEmpty()){
+            TreeNode poll = queue.poll();
+            if(poll==null){
+                sb.append("Null,");
+                continue;
+            }
+            sb.append(poll.val+ ",");
+            queue.offer(poll.left);
+            queue.offer(poll.right);
 
+        }
+        //System.out.println(sb.toString());
+        return sb.toString();
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        
+        //System.out.println(data);
         String[] dataToArr = data.split(",");
-        //System.out.println("len " + dataToArr.length);
-        
-        idx = 0;
-        return dsHelper(dataToArr);
-    }
-
-    public TreeNode dsHelper(String[] arr) {
-
-        if(arr[idx].equals("null")){
-            idx++;
+        if(dataToArr[0].equals("Null"))
             return null;
+        Queue<TreeNode> queue = new LinkedList<>();
+
+        int idx = 1; 
+        TreeNode ret = new TreeNode(Integer.valueOf(dataToArr[0]));
+        queue.offer(ret);
+
+        while(!queue.isEmpty() && idx < dataToArr.length){
+            TreeNode poll = queue.poll();
+            if(!dataToArr[idx].equals("Null")){
+                poll.left = new TreeNode(Integer.valueOf(dataToArr[idx]));
+                queue.offer(poll.left);
+            }
+            idx++;
+            if(idx<dataToArr.length && !dataToArr[idx].equals("Null")){
+                poll.right = new TreeNode(Integer.valueOf(dataToArr[idx]));
+                queue.offer(poll.right);
+            }
+            idx++;
         }
+        return ret;
 
-        TreeNode newNode = new TreeNode(Integer.valueOf(arr[idx]));
-        idx++;
-        newNode.left = dsHelper(arr);
-        newNode.right = dsHelper(arr);
-
-        return newNode;
     }
 }
 
