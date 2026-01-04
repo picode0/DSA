@@ -26,7 +26,7 @@ class WordDictionary {
     
     public boolean search(String word) {
         TrieNode curr = root;
-        return searchHelper(word, root, 0);
+        return searchHelper(word, curr, 0);
     }
 
     public boolean searchHelper(String word, TrieNode node, int idx){
