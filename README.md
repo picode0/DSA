@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
 | [0512-maximum-alternating-subarray-sum](https://github.com/picode0/DSA/tree/master/0512-maximum-alternating-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/picode0/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/picode0/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/picode0/DSA/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/picode0/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/picode0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/picode0/DSA/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Counting Sort
 |  |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/picode0/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/picode0/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
