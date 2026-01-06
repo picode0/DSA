@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/picode0/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/picode0/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/picode0/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/picode0/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/picode0/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
