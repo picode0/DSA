@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3453-separate-squares-i](https://github.com/picode0/DSA/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/picode0/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/picode0/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/picode0/DSA/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3453-separate-squares-i](https://github.com/picode0/DSA/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
