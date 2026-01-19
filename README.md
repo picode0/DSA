@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/picode0/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
 ## Divide and Conquer
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3531-count-covered-buildings](https://github.com/picode0/DSA/tree/master/3531-count-covered-buildings) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Math
 |  |
 | ------- |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/picode0/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/picode0/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Randomized
 |  |
