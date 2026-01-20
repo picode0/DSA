@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/picode0/DSA/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/picode0/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 ## Simulation
 |  |
