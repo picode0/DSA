@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/picode0/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/picode0/DSA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/picode0/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/picode0/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/picode0/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Union Find
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/picode0/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Simulation
 |  |
 | ------- |
