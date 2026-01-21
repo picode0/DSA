@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2013-detect-squares](https://github.com/picode0/DSA/tree/master/2013-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/picode0/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
