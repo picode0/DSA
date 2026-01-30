@@ -1,12 +1,26 @@
 class AuthenticationManager {
+
+    class SIPair{
+        String id;
+        int time;
+        SIPair(String id, int time){
+            this.id = id;
+            this.time = time;
+        }
+    }
+
     int expireTime;
     Map<String, Integer> mapEnd;
+    PriorityQueue<SIPair> pq;
     public AuthenticationManager(int timeToLive) {
         expireTime = timeToLive;
         mapEnd = new HashMap<>();
+        pq = new PriorityQueue<>((a,b)->a.time - b.time);
     }
     
     public void generate(String tokenId, int currentTime) {
+        if(!mapEnd.containsKey(tokenId))
+            pq.offer(new SIPair(tokenId, currentTime+expireTime));
         mapEnd.put(tokenId, currentTime + expireTime);
     }
     
@@ -16,12 +30,13 @@ class AuthenticationManager {
     }
     
     public int countUnexpiredTokens(int currentTime) {
-        int ret = 0;
-        for(int endTime : mapEnd.values()){
-            if(endTime > currentTime)
-                ret++;
+        //int ret = 0;
+        while(!pq.isEmpty() && pq.peek().time <= currentTime){
+            SIPair poll = pq.poll();
+            if(mapEnd.get(poll.id) > currentTime)
+                pq.offer(new SIPair(poll.id, mapEnd.get(poll.id)));
         }
-        return ret;
+        return pq.size();
     }
 }
 
