@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/picode0/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/picode0/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/picode0/DSA/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/picode0/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/picode0/DSA/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/picode0/DSA/tree/master/0647-palindromic-substrings) |
+| [0761-special-binary-string](https://github.com/picode0/DSA/tree/master/0761-special-binary-string) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/picode0/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
+| [0761-special-binary-string](https://github.com/picode0/DSA/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
