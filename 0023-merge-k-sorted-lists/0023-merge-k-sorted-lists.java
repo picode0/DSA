@@ -21,7 +21,7 @@ class Solution {
         ListNode head = dummy;
         while(!pq.isEmpty()){
             ListNode poll = pq.poll();
-            System.out.println(poll.val);
+            //System.out.println(poll.val);
             dummy.next = poll;
             dummy = dummy.next;
             if(poll.next!=null)
