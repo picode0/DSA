@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/picode0/DSA/tree/master/0761-special-binary-string) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
