@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/picode0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1488-avoid-flood-in-the-city](https://github.com/picode0/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/picode0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/picode0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
 |  |
 | ------- |
