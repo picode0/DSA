@@ -6,16 +6,15 @@ class Solution {
 
         int ret = 0;
 
-        while(start<end){
+        while(start<=end){
             if(people[end] < limit && people[end]+people[start]<=limit){
                 start++;
             }
             end--;
             ret++;
         }
-        if(start==end)
-            ret++;
-            
+    
+
         return ret; 
     }
 }
