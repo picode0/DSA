@@ -1,5 +1,12 @@
 class Solution {
     public int minimizeArrayValue(int[] nums) {
+        long prefix = 0, ret=0;
+        for(int i=0;i<nums.length;i++){
+            prefix+=nums[i];
+            ret = Math.max(ret, (prefix+i)/(i+1));
+        }
+        return (int)ret; 
+        /*
         long maxNum = 0;
 
         for(int num:nums)
@@ -18,6 +25,8 @@ class Solution {
             }
         }
         return (int)left;
+        */
+
 
     }
 
