@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/picode0/DSA/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/picode0/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/picode0/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
 ## Linked List
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/picode0/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/picode0/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/picode0/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/picode0/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/picode0/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Simulation
 |  |
 | ------- |
