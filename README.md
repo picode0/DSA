@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-design-memory-allocator](https://github.com/picode0/DSA/tree/master/2502-design-memory-allocator) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/picode0/DSA/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/picode0/DSA/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/picode0/DSA/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/picode0/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/picode0/DSA/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/picode0/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/picode0/DSA/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
