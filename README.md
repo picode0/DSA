@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1382-balance-a-binary-search-tree](https://github.com/picode0/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/picode0/DSA/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/picode0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1488-avoid-flood-in-the-city](https://github.com/picode0/DSA/tree/master/1488-avoid-flood-in-the-city) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/picode0/DSA/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
