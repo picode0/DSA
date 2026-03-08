@@ -1,15 +1,12 @@
 class Solution {
     
     public boolean containsCycle(char[][] grid) {
-        // b a c
-        // c a c
-        // d d c
-        // b c c
+        
         boolean[][] visited = new boolean[grid.length][grid[0].length];
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
                 if(!visited[i][j]){
-                    if(bfs(grid, visited, i, j)){
+                    if(dfs(grid, visited, i, j, -1,-1)){
                         //System.out.println( " i j " + i + " " + j);
                         return true;
                     }
@@ -43,6 +40,24 @@ class Solution {
 
         return false; 
 
+    }
+
+    public boolean dfs(char[][] grid, boolean[][] visited, int row, int col, int prevRow, int prevCol){
+        //visited[row][col] = true;
+        int[][] dirs = new int[][]{{0,1},{0,-1},{-1,0},{1,0}};
+        if(visited[row][col])
+            return true;
+        visited[row][col] = true;
+
+        for(int[] dir: dirs){
+            int newRow = row + dir[0];
+            int newCol = col + dir[1];
+            if(newRow>=0 && newRow < grid.length && newCol>=0 && newCol<grid[0].length && (newRow!=prevRow || newCol!=prevCol) && grid[newRow][newCol]==grid[row][col]){
+                if(dfs(grid, visited, newRow, newCol, row, col))
+                    return true;
+            }
+        }
+        return false;
     }
 
 
