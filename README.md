@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 | [2013-detect-squares](https://github.com/picode0/DSA/tree/master/2013-detect-squares) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 | [2013-detect-squares](https://github.com/picode0/DSA/tree/master/2013-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/picode0/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/picode0/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
+| [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
