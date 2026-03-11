@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/picode0/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/picode0/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/picode0/DSA/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/picode0/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/picode0/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Queue
 |  |
 | ------- |
@@ -759,4 +761,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/picode0/DSA/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/picode0/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
