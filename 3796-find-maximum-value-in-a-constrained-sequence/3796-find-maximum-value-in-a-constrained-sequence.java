@@ -12,21 +12,15 @@ class Solution {
 
         for(int i=1;i<n;i++){
             ret[i] = Math.min(ret[i], ret[i-1] + (long)diff[i-1]);
-            //System.out.println(ret[i]);
         }
 
         long retVal = ret[n-1];
 
         for(int i=n-2;i>=0;i--){
             ret[i] = Math.min(ret[i], ret[i+1] + diff[i]);
-            //System.out.println(ret[i]);
             retVal = Math.max(retVal, ret[i]);
         }
         return (int)retVal;
-        // 0 2 4 1 2 6 11 12 1 3 
-        // 
-
-
 
     }
 }
