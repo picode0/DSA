@@ -7,23 +7,17 @@ class Solution {
 
         for(int right = 0;right<nums.length;right++){
             if(nums[right]>=k) return 1;
+            map.put(nums[right], map.getOrDefault(nums[right], 0)+1);
+            if(map.get(nums[right])==1){
 
-            if(!map.containsKey(nums[right])){
-                map.put(nums[right],1);
                 sum+=nums[right];
-            }
-            else{
-                map.put(nums[right], map.get(nums[right])+1);
             }
          
             while(sum>=k){
                 ret = Math.min(ret, right-left+1);
-                if(map.get(nums[left])>1){
-                    map.put(nums[left], map.get(nums[left])-1);
-                }
-                else{
+                map.put(nums[left], map.get(nums[left])-1);
+                if(map.get(nums[left])==0){
                     sum-=nums[left];
-                    map.remove(nums[left]);      
                 }
                 left++;
             }
