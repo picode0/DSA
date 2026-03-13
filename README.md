@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/picode0/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
 ## Divide and Conquer
 |  |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/picode0/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Math
 |  |
 | ------- |
