@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/picode0/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/picode0/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
 | [2502-design-memory-allocator](https://github.com/picode0/DSA/tree/master/2502-design-memory-allocator) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/picode0/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/picode0/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Enumeration
 |  |
