@@ -32,11 +32,8 @@ class Solution {
                 if((nums[i+1] - nums[i-1]) % 2==0){
     
                     int reqDiff = (nums[i+1] - nums[i-1]) / 2;
-                    int leftLen = 1, rightLen = 1;
-                    if(i>=2 && nums[i-1] - nums[i-2] ==reqDiff)
-                        leftLen = leftMax[i-1];
-                    if(i<=nums.length-3 && nums[i+2] - nums[i+1] == reqDiff)
-                        rightLen = rightMax[i+1];
+                    int leftLen = i>=2 && nums[i-1] - nums[i-2] ==reqDiff?leftMax[i-1]:1;
+                    int rightLen = i<=nums.length-3 && nums[i+2] - nums[i+1] == reqDiff?rightMax[i+1]:1;
                     
                     int mergedLen = 1 + leftLen + rightLen;
                     ret = Math.max(ret, mergedLen);
