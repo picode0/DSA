@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
 | [2249-count-the-hidden-sequences](https://github.com/picode0/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2401-longest-nice-subarray](https://github.com/picode0/DSA/tree/master/2401-longest-nice-subarray) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/picode0/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
+| [2401-longest-nice-subarray](https://github.com/picode0/DSA/tree/master/2401-longest-nice-subarray) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/picode0/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2401-longest-nice-subarray](https://github.com/picode0/DSA/tree/master/2401-longest-nice-subarray) |
 ## Enumeration
 |  |
 | ------- |
