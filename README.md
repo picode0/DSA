@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/picode0/DSA/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/picode0/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/picode0/DSA/tree/master/1797-design-authentication-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/picode0/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/picode0/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/picode0/DSA/tree/master/0881-boats-to-save-people) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/picode0/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/picode0/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
