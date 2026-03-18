@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/picode0/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/picode0/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/picode0/DSA/tree/master/0547-number-of-provinces) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/picode0/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/picode0/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/picode0/DSA/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/picode0/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
