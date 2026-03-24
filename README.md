@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2488-count-subarrays-with-median-k](https://github.com/picode0/DSA/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/picode0/DSA/tree/master/2502-design-memory-allocator) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/picode0/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2488-count-subarrays-with-median-k](https://github.com/picode0/DSA/tree/master/2488-count-subarrays-with-median-k) |
 | [2502-design-memory-allocator](https://github.com/picode0/DSA/tree/master/2502-design-memory-allocator) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/picode0/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/picode0/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2488-count-subarrays-with-median-k](https://github.com/picode0/DSA/tree/master/2488-count-subarrays-with-median-k) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/picode0/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/picode0/DSA/tree/master/3714-longest-balanced-substring-ii) |
