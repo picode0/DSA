@@ -15,21 +15,18 @@ class Solution {
             
             if(i>=n){
                 int leftIdx = i-n;
-
                 char oldexpected1 = leftIdx%2==0?'0':'1';
-                //char oldexpected2 = leftIdx%2==0?'1':'0';
                 if(newS.charAt(leftIdx)!=oldexpected1)
                     diff1--;
-            
 
             }
             int diff2 = n - diff1;
 
             if(i>=n-1)
                 ret = Math.min(ret, Math.min(diff1, diff2));
-            // 01001001101 01001001101
-            // 01010101010 1
         }
         return ret;
+        // 01001001101 01001001101
+        // 01010101010 10101010101
     }
 }
