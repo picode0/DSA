@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/picode0/DSA/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/picode0/DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/picode0/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/picode0/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2401-longest-nice-subarray](https://github.com/picode0/DSA/tree/master/2401-longest-nice-subarray) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
