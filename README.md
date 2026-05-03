@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/picode0/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
+| [0489-robot-room-cleaner](https://github.com/picode0/DSA/tree/master/0489-robot-room-cleaner) |
 | [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
@@ -842,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/picode0/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Interactive
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/picode0/DSA/tree/master/0489-robot-room-cleaner) |
 <!---LeetCode Topics End-->
