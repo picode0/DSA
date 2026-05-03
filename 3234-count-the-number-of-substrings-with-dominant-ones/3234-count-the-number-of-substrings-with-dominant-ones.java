@@ -5,7 +5,7 @@ class Solution {
         int[] prevZero = new int[n+1];
         int ret =0;
 
-        prevZero[0] = -1;
+        //prevZero[0] = -1;
         for(int i=0;i<n;i++){
             if(i==0 || s.charAt(i-1)=='0')
                 prevZero[i+1] = i;
