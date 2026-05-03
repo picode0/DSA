@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/picode0/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/picode0/DSA/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/picode0/DSA/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/picode0/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/picode0/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2860-happy-students](https://github.com/picode0/DSA/tree/master/2860-happy-students) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/picode0/DSA/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3713-longest-balanced-substring-i](https://github.com/picode0/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/picode0/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
