@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/picode0/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/picode0/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/picode0/DSA/tree/master/0130-surrounded-regions) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/picode0/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/picode0/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/picode0/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/picode0/DSA/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/picode0/DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/picode0/DSA/tree/master/0456-132-pattern) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
