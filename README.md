@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/picode0/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/picode0/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/picode0/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/picode0/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/picode0/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/picode0/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
