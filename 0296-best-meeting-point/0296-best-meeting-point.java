@@ -7,14 +7,18 @@ class Solution {
             for(int j=0;j<grid[0].length;j++){
                 if(grid[i][j]==1){
                     rowIdx.add(i);
-                    colIdx.add(j);
-                    //rowIdx.add(i);
                 }
             }
         }
 
-        Collections.sort(colIdx);
-        //System.out.println(colIdx.size() + "  " + rowIdx.size());
+
+        for(int i=0;i<grid[0].length;i++){
+            for(int j=0;j<grid.length;j++){
+                if(grid[j][i]==1)
+                    colIdx.add(i);
+            }
+        }
+  
         return minDistance(rowIdx, rowIdx.get(rowIdx.size()/2)) + minDistance(colIdx, colIdx.get(colIdx.size()/2));
 
     }
@@ -28,4 +32,5 @@ class Solution {
 
         return ret;
     }
+    
 }
