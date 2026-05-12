@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/picode0/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/picode0/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/picode0/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
