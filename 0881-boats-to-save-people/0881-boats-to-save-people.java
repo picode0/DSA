@@ -7,7 +7,7 @@ class Solution {
         int ret = 0;
 
         while(start<=end){
-            if(people[end] < limit && people[end]+people[start]<=limit){
+            if(people[end]+people[start]<=limit){
                 start++;
             }
             end--;
