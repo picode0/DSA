@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/picode0/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/picode0/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/picode0/DSA/tree/master/0064-minimum-path-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/picode0/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/picode0/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/picode0/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/picode0/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/picode0/DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/picode0/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/picode0/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/picode0/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
