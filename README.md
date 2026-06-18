@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/picode0/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/picode0/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3837-grid-teleportation-traversal](https://github.com/picode0/DSA/tree/master/3837-grid-teleportation-traversal) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/picode0/DSA/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/picode0/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/picode0/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/picode0/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/picode0/DSA/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
