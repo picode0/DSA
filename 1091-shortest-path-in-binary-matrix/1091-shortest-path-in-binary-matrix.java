@@ -20,8 +20,8 @@ class Solution {
                     int newx = poll[0] + dir[j][0];
                     int newy = poll[1] + dir[j][1];
                     if(newx >=0 && newx < grid.length && newy >=0 && newy < grid[0].length && !visited[newx][newy] && grid[newx][newy]==0){
-                        queue.offer(new int[]{newx, newy});
                         visited[newx][newy] = true;
+                        queue.offer(new int[]{newx, newy});
                     }
                 }
             }
