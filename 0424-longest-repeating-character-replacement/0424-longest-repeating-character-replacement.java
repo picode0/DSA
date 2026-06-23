@@ -7,7 +7,7 @@ class Solution {
             map.put(s.charAt(right), map.getOrDefault(s.charAt(right), 0)+1);
             max = Math.max(max, map.get(s.charAt(right)));
 
-            if(right-left+1 - max > k)
+            while(right-left+1 - max > k)
                 map.put(s.charAt(left), map.get(s.charAt(left++))-1);
 
             ret = Math.max(ret, right-left+1);
