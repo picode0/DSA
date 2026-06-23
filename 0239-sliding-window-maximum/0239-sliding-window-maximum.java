@@ -5,8 +5,26 @@ class Solution {
 
         // 3, 3, 1, 5
         Deque<Integer> queue = new LinkedList<>();
-        List<Integer> list = new ArrayList<>(); 
+        int[] ret = new int[nums.length-k+1];
+        int idx = 0;
+        for(int i=0;i<nums.length;i++){
+            if(!queue.isEmpty() && queue.peekFirst() == i-k)
+                queue.pollFirst();
+            
+            while(!queue.isEmpty() && nums[queue.peekLast()]<nums[i])
+                queue.pollLast();
 
+            queue.offer(i);
+            if(i>=k-1){
+                ret[idx++] = nums[queue.peekFirst()];
+            }
+        } 
+        return ret;
+
+
+
+
+        /*
         for(int i=0;i<k;i++){
             while(!queue.isEmpty() && nums[i]>=nums[queue.peekLast()])
                 queue.pollLast();
@@ -25,5 +43,6 @@ class Solution {
         }
 
         return list.stream().mapToInt(i->i).toArray();
+        */
     }
 }
