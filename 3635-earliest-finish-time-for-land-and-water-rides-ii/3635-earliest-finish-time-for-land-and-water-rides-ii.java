@@ -14,17 +14,11 @@ class Solution {
 
         int ret = Integer.MAX_VALUE;
         for(int i=0;i<waterStartTime.length;i++){
-            if(waterStartTime[i]<=minLandEndTime)
-                ret = Math.min(ret, minLandEndTime + waterDuration[i]);
-            else    
-                ret = Math.min(ret, waterStartTime[i] + waterDuration[i]);
+            ret = Math.min(ret, Math.max(minLandEndTime, waterStartTime[i])+waterDuration[i]);
         }
 
         for(int i=0;i<landStartTime.length;i++){
-            if(landStartTime[i]<=minWaterEndTime)
-                ret = Math.min(ret, minWaterEndTime + landDuration[i]);
-            else 
-                ret = Math.min(ret, landStartTime[i] + landDuration[i]);
+            ret = Math.min(ret, Math.max(minWaterEndTime, landStartTime[i])+landDuration[i]);
         }
 
         return ret;
