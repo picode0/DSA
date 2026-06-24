@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/picode0/DSA/tree/master/0296-best-meeting-point) |
+| [0300-longest-increasing-subsequence](https://github.com/picode0/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/picode0/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/picode0/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/picode0/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/picode0/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/picode0/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/picode0/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/picode0/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/picode0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/picode0/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/picode0/DSA/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/picode0/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
