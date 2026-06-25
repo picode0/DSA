@@ -1,52 +1,46 @@
-class BrowserHistory {
-    Stack<String> future;
-    Stack<String> history;
-    String curr;
-    // 
-    // 6,5,4,3,2,1
-    public BrowserHistory(String homepage) {
-        future = new Stack<>();
-        history = new Stack<>(); 
-    
-        curr = homepage;
+class DLNode{
+    String st;
+    DLNode prev;
+    DLNode next;
+    public DLNode(String st){
+        this.st = st;
+        prev = null;
+        next = null;
+    }
+}
 
+class BrowserHistory {
+    DLNode node;
+
+    public BrowserHistory(String homepage) {
+        node = new DLNode(homepage);
     }
     
     public void visit(String url) {
-        history.push(curr);
-        future.clear();
-        curr = url;
+        DLNode newNode = new DLNode(url);
+        node.next = newNode;
+        newNode.prev = node;
+        node = node.next;
     }
     
     public String back(int steps) {
         int n = steps;
-        while(!history.isEmpty() && n>0){
-            future.push(curr);
-            curr = history.pop();
+        while(node.prev!=null && n>0){
+            node = node.prev;
             n--;
         }
-        return curr;
-
+        return node.st;
     }
     
     public String forward(int steps) {
         int n = steps;
-        while(!future.isEmpty() && n>0){
-            history.push(curr);
-            curr = future.pop();
+        while(node.next!=null && n>0){
+            node = node.next;
             n--;
         }
-        return curr;
+        return node.st;
     }
 }
-//fd = kttzxgh crqje iybch unn
-
-//bk =  
-//tip cgrt esgriv
-
-//fd = leetcode 
-//bk = linnkedin fb 
-// curr == google 
 
 /**
  * Your BrowserHistory object will be instantiated and called as such:
