@@ -8,17 +8,41 @@
  * }
  */
 class Solution {
+    boolean pfound = false, qfound = false;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        TreeNode ret = LCA(root, p, q);
+        TreeNode ret = DFS(root, p, q);
 
-        if(ret==p)
-            return dfs(p,q)?p:null;
-        if(ret==q)
-            return dfs(q, p)?q:null;
-
-        return ret;
+        if(pfound && qfound)
+            return ret;
+            
+        return null;
     }
 
+    public TreeNode DFS(TreeNode root, TreeNode p, TreeNode q){
+        if(root==null)
+            return null;
+
+        TreeNode left = DFS(root.left, p, q);
+        TreeNode right = DFS(root.right, p,q);
+
+        if(root==p){
+            pfound = true;
+            return root;
+        }
+        if(root==q){
+            qfound = true;
+            return root;
+        }
+
+        if(left!=null && right!=null)
+            return root;
+        
+        return left==null?right:left;
+
+
+    }
+
+    /*
     public TreeNode LCA(TreeNode root, TreeNode p, TreeNode q){
         if(root == null || root==p || root==q)
             return root;
@@ -42,4 +66,5 @@ class Solution {
 
         return dfs(p.left, q) || dfs(p.right, q);
     }
+    */
 }
