@@ -36,7 +36,7 @@ class Solution {
                 else    
                     dp[i+1][j] = dp[i][j];
                 
-                if(j==target && dp[i+1][j])
+                if(j==target && dp[i][j])
                     return true;
             }
         }
