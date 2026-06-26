@@ -1,6 +1,6 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-
+        /*
         int sum = 0;
         for(int num:nums)
             sum+=num;
@@ -14,7 +14,8 @@ class Solution {
         Boolean[][] memo = new Boolean[nums.length+1][target+1];
 
         return dfs(nums, nums.length-1, target, memo);
-        /*
+        */
+        
         int sum = 0;
         for(int num:nums)
             sum+=num;
@@ -34,12 +35,15 @@ class Solution {
                 }
                 else    
                     dp[i+1][j] = dp[i][j];
+                
+                if(j==target && dp[i+1][j])
+                    return true;
             }
         }
         return dp[nums.length][target];
-        */
+        
     }
-
+    /*
     public Boolean dfs(int[] nums, int n, int target, Boolean[][] memo){
         if(target==0)
             return true;
@@ -53,8 +57,6 @@ class Solution {
         memo[n][target] = dfs(nums, n-1, target,memo) || dfs(nums, n-1, target-nums[n-1], memo); 
 
         return memo[n][target];
-        
     } 
-
-
+    */
 }
