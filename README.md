@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/picode0/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/picode0/DSA/tree/master/0881-boats-to-save-people) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
+| [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/picode0/DSA/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/picode0/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/picode0/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/picode0/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/picode0/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0874-walking-robot-simulation](https://github.com/picode0/DSA/tree/master/0874-walking-robot-simulation) |
+| [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/picode0/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2169-simple-bank-system](https://github.com/picode0/DSA/tree/master/2169-simple-bank-system) |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/picode0/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/picode0/DSA/tree/master/0743-network-delay-time) |
+| [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1488-avoid-flood-in-the-city](https://github.com/picode0/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
