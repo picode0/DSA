@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/picode0/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/picode0/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/picode0/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/picode0/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/picode0/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2401-longest-nice-subarray](https://github.com/picode0/DSA/tree/master/2401-longest-nice-subarray) |
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/picode0/DSA/tree/master/0658-find-k-closest-elements) |
 | [0754-reach-a-number](https://github.com/picode0/DSA/tree/master/0754-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/picode0/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/picode0/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/picode0/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1488-avoid-flood-in-the-city](https://github.com/picode0/DSA/tree/master/1488-avoid-flood-in-the-city) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/picode0/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/picode0/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/picode0/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/picode0/DSA/tree/master/1094-car-pooling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/picode0/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
