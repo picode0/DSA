@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/picode0/DSA/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/picode0/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/picode0/DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/picode0/DSA/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/picode0/DSA/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/picode0/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/picode0/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/picode0/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/picode0/DSA/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/picode0/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/picode0/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/picode0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/picode0/DSA/tree/master/0189-rotate-array) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/picode0/DSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/picode0/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/picode0/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/picode0/DSA/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/picode0/DSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/picode0/DSA/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
