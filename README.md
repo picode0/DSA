@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/picode0/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/picode0/DSA/tree/master/0874-walking-robot-simulation) |
+| [0895-maximum-frequency-stack](https://github.com/picode0/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [0940-fruit-into-baskets](https://github.com/picode0/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/picode0/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/picode0/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0895-maximum-frequency-stack](https://github.com/picode0/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/picode0/DSA/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/picode0/DSA/tree/master/1797-design-authentication-manager) |
 | [2013-detect-squares](https://github.com/picode0/DSA/tree/master/2013-detect-squares) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/picode0/DSA/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/picode0/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/picode0/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/picode0/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/picode0/DSA/tree/master/1472-design-browser-history) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/picode0/DSA/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/picode0/DSA/tree/master/0895-maximum-frequency-stack) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/picode0/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
