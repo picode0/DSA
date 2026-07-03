@@ -1,5 +1,10 @@
 class Solution {
+    int[] memo;
     public int rob(int[] nums) {
+        memo = new int[nums.length];
+        Arrays.fill(memo, -1);
+        return dphelper(nums, 0);
+        /*
         if(nums.length<2)
             return nums[0];
         int[] dp = new int[nums.length];
@@ -12,6 +17,19 @@ class Solution {
             dp[i] = Math.max(dp[i-1], dp[i-2]+nums[i]);
  
         return dp[dp.length-1];
+        */
+    }
 
+    public int dphelper(int[] nums, int idx){
+        if(idx>=nums.length)
+            return 0;
+
+        if(memo[idx]!=-1)
+            return memo[idx];
+
+        int ret = Math.max(dphelper(nums, idx+1), dphelper(nums, idx+2)+nums[idx]);
+        memo[idx] = ret;
+
+        return ret;
     }
 }
