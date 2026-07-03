@@ -31,9 +31,6 @@ class Solution {
         if(root.right!=null)
             parent.put(root.right, root);
 
-        int left = dfs(root.left);
-        int right = dfs(root.right);
-
         int val = 0; 
 
         if(parent.get(root)!=null && parent.get(parent.get(root))!=null){
@@ -41,6 +38,6 @@ class Solution {
                 val = root.val;
             }
         }
-        return val+left+right;
+        return val+dfs(root.left)+dfs(root.right);
     }
 }
