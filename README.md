@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/picode0/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/picode0/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/picode0/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/picode0/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/picode0/DSA/tree/master/1202-smallest-string-with-swaps) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/picode0/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/picode0/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/picode0/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/picode0/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/picode0/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/picode0/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/picode0/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/picode0/DSA/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/picode0/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/picode0/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/picode0/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/picode0/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/picode0/DSA/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/picode0/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
