@@ -1,9 +1,24 @@
 class Solution {
-    int[] memo;
+    //int[] memo;
     public int rob(int[] nums) {
+
+        if(nums.length<2)
+            return nums[0];
+
+        int robPrevPrev = 0;
+        int robPrev = nums[0];
+        int curr = 0;
+        for(int i=1;i<nums.length;i++){
+            curr = Math.max(robPrev, robPrevPrev + nums[i]);
+            robPrevPrev = robPrev;
+            robPrev = curr;
+        }
+        return curr;
+        /*
         memo = new int[nums.length];
         Arrays.fill(memo, -1);
         return dphelper(nums, 0);
+        */
         /*
         if(nums.length<2)
             return nums[0];
@@ -19,7 +34,7 @@ class Solution {
         return dp[dp.length-1];
         */
     }
-
+    /*
     public int dphelper(int[] nums, int idx){
         if(idx>=nums.length)
             return 0;
@@ -32,4 +47,5 @@ class Solution {
 
         return ret;
     }
+    */
 }
