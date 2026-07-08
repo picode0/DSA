@@ -3,7 +3,8 @@ class Solution {
         StringBuilder sb = new StringBuilder();
 
         for(char c: s.toCharArray()){
-            
+            if(c-'a'>=0 && c-'a'<26)
+                sb.append(c);
             if(c=='*'){
                 if(sb.length()>0)
                     sb.deleteCharAt(sb.length()-1);
@@ -14,8 +15,6 @@ class Solution {
             else if(c=='%'){
                 sb.reverse();
             }
-            else
-                sb.append(c);
         }
         return sb.toString();
     }
