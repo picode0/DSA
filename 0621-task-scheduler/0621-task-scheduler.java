@@ -11,6 +11,24 @@ class Solution {
                 taskfreq.offer(charCnt[i]);
         }
 
+        int time = 0;
+        while(!taskfreq.isEmpty()){
+            int cycle = n +1;
+            List<Integer> tempStore = new ArrayList<>();
+            int taskCnt = 0;
+            while(cycle>0 && !taskfreq.isEmpty()){
+                int freq = taskfreq.poll();
+                if(freq>1)
+                    tempStore.add(freq-1);
+                taskCnt++;
+                cycle--;
+            }
+            for(int storeFreq: tempStore)
+                taskfreq.offer(storeFreq);
+            time += taskfreq.isEmpty()?taskCnt:n+1;
+        }
+        return time;
+        /*
         Queue<int[]> endtime = new LinkedList<>();
         int time = 0;
         while(!taskfreq.isEmpty() || !endtime.isEmpty()){
@@ -26,6 +44,6 @@ class Solution {
                 taskfreq.offer(endtime.poll()[0]);
             }
         }
-        return time;
+        */
     }
 }
