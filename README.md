@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/picode0/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/picode0/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/picode0/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/picode0/DSA/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/picode0/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/picode0/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/picode0/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/picode0/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/picode0/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/picode0/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/picode0/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/picode0/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/picode0/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
