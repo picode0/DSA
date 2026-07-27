@@ -8,15 +8,12 @@ class Solution {
         for(char c: p.toCharArray())
             pCount[c-'a']++;
 
-        int left = 0;
         for(int right=0;right<s.length();right++){
             sCount[s.charAt(right)-'a']++;
 
-            if(right>=p.length()){
-                sCount[s.charAt(left)-'a']--;
-                left++;
-            }
-            
+            if(right>=p.length())
+                sCount[s.charAt(right-p.length())-'a']--;
+
             if(Arrays.equals(pCount, sCount))
                 ret.add(right-p.length()+1);
         }
