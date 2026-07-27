@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/picode0/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/picode0/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/picode0/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/picode0/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/picode0/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/picode0/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/picode0/DSA/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/picode0/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/picode0/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/picode0/DSA/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
