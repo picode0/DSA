@@ -1,27 +1,27 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int[][] dp = new int[coins.length+1][amount+1];
-        for(int i=0;i<=coins.length;i++)
-            dp[i][0] = 1;
+        int[] dp = new int[amount+1];
+
+        dp[0] = 1;
 
         for(int i=0;i<coins.length;i++){
-            for(int j=1;j<=amount;j++){
-                if(coins[i]>j)
-                    dp[i+1][j] = dp[i][j];
-                else
-                    dp[i+1][j] = dp[i][j] + dp[i+1][j-coins[i]]; 
+            for(int j=coins[i];j<=amount;j++){
+                dp[j] += dp[j-coins[i]];
             }
         }
-
-        return dp[coins.length][amount];
      
+        return dp[amount];
 
+        // 2,1,5
 
-        // 1,1,1,1   2,1,1   2,2
+        // 0     1     2       3       4        5 
+        // 1     1     2       2       3        3
 
-        // [1,2]
+        // ()         (2)             (2,2)
 
-        // 0 1 2 3
-        // 1 0 0 0
+        //      (1)   (1,1)  (1,1,1) (1,1,1,1) (1,1,1,1,1)
+        //                    (2,1)    (2,1,1)   (2,1,1,1)               
+       //                                         (2,2,1)
+       //                                           
     }
 }
