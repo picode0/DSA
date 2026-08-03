@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/picode0/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/picode0/DSA/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/picode0/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/picode0/DSA/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/picode0/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/picode0/DSA/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/picode0/DSA/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/picode0/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/picode0/DSA/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/picode0/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/picode0/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/picode0/DSA/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0310-minimum-height-trees](https://github.com/picode0/DSA/tree/master/0310-minimum-height-trees) |
 | [0444-sequence-reconstruction](https://github.com/picode0/DSA/tree/master/0444-sequence-reconstruction) |
 | [0802-find-eventual-safe-states](https://github.com/picode0/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/picode0/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/picode0/DSA/tree/master/0239-sliding-window-maximum) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/picode0/DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/picode0/DSA/tree/master/0296-best-meeting-point) |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/picode0/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/picode0/DSA/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/picode0/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/picode0/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/picode0/DSA/tree/master/0394-decode-string) |
@@ -1017,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/picode0/DSA/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
 | [0310-minimum-height-trees](https://github.com/picode0/DSA/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/picode0/DSA/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/picode0/DSA/tree/master/0547-number-of-provinces) |
