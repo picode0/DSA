@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/picode0/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/picode0/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/picode0/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/picode0/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/picode0/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/picode0/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/picode0/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/picode0/DSA/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/picode0/DSA/tree/master/0269-alien-dictionary) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/picode0/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/picode0/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/picode0/DSA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/picode0/DSA/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/picode0/DSA/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/picode0/DSA/tree/master/0296-best-meeting-point) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/picode0/DSA/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/picode0/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/picode0/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/picode0/DSA/tree/master/0257-binary-tree-paths) |
 | [0489-robot-room-cleaner](https://github.com/picode0/DSA/tree/master/0489-robot-room-cleaner) |
 | [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/picode0/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
