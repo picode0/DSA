@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/picode0/DSA/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/picode0/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3265-maximum-good-subarray-sum](https://github.com/picode0/DSA/tree/master/3265-maximum-good-subarray-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/picode0/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/picode0/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/picode0/DSA/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/picode0/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/picode0/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/picode0/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/picode0/DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/picode0/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/picode0/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/picode0/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/picode0/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/picode0/DSA/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/picode0/DSA/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/picode0/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/picode0/DSA/tree/master/0212-word-search-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/picode0/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
