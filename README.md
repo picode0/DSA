@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/picode0/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/picode0/DSA/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/picode0/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/picode0/DSA/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/picode0/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/picode0/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/picode0/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/picode0/DSA/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/picode0/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/picode0/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/picode0/DSA/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/picode0/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
