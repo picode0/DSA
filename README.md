@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/picode0/DSA/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/picode0/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2860-happy-students](https://github.com/picode0/DSA/tree/master/2860-happy-students) |
+| [2866-beautiful-towers-ii](https://github.com/picode0/DSA/tree/master/2866-beautiful-towers-ii) |
 | [2868-continuous-subarrays](https://github.com/picode0/DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/picode0/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/picode0/DSA/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/picode0/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/picode0/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/picode0/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2866-beautiful-towers-ii](https://github.com/picode0/DSA/tree/master/2866-beautiful-towers-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/picode0/DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/picode0/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/picode0/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/picode0/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/picode0/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/picode0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2866-beautiful-towers-ii](https://github.com/picode0/DSA/tree/master/2866-beautiful-towers-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/picode0/DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/picode0/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
