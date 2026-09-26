@@ -894,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/picode0/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/picode0/DSA/tree/master/0670-maximum-swap) |
 | [0754-reach-a-number](https://github.com/picode0/DSA/tree/master/0754-reach-a-number) |
+| [0829-consecutive-numbers-sum](https://github.com/picode0/DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/picode0/DSA/tree/master/0829-consecutive-numbers-sum) |
 | [2860-happy-students](https://github.com/picode0/DSA/tree/master/2860-happy-students) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/picode0/DSA/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/picode0/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
