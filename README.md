@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/picode0/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/picode0/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/picode0/DSA/tree/master/0874-walking-robot-simulation) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/picode0/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/picode0/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/picode0/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/picode0/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
