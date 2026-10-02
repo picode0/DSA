@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/picode0/DSA/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/picode0/DSA/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/picode0/DSA/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/picode0/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/picode0/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/picode0/DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/picode0/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/picode0/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/picode0/DSA/tree/master/0754-reach-a-number) |
 | [0829-consecutive-numbers-sum](https://github.com/picode0/DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 | [0939-minimum-area-rectangle](https://github.com/picode0/DSA/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/picode0/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/picode0/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/picode0/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Interactive
 |  |
@@ -1075,4 +1079,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/picode0/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
