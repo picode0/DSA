@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/picode0/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/picode0/DSA/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
+| [0740-delete-and-earn](https://github.com/picode0/DSA/tree/master/0740-delete-and-earn) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/picode0/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/picode0/DSA/tree/master/0874-walking-robot-simulation) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/picode0/DSA/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/picode0/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/picode0/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/picode0/DSA/tree/master/0740-delete-and-earn) |
 | [0835-image-overlap](https://github.com/picode0/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/picode0/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0853-car-fleet](https://github.com/picode0/DSA/tree/master/0853-car-fleet) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/picode0/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/picode0/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/picode0/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/picode0/DSA/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/picode0/DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/picode0/DSA/tree/master/0931-minimum-falling-path-sum) |
