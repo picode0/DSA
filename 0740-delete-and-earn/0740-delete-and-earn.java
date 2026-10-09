@@ -1,12 +1,17 @@
 class Solution {
+    Map<Integer,Integer> points = new HashMap<>();
+    Map<Integer,Integer> cache = new HashMap<>();
     public int deleteAndEarn(int[] nums) {
-        Map<Integer,Integer> points = new HashMap<>();
+        
         int maxNum = 0; 
 
         for(int num: nums){
             points.put(num ,points.getOrDefault(num, 0)+num);
             maxNum = Math.max(maxNum, num);
         }
+
+        return helper(maxNum);
+
         /*
         int[] dp = new int[maxNum+1];
         dp[1] = points.getOrDefault(1, 0);
@@ -16,6 +21,7 @@ class Solution {
         }
         return dp[maxNum];
         */
+        /*
         int prevprev = 0;
         int prev = points.getOrDefault(1, 0);
         int curr = prev;
@@ -26,7 +32,21 @@ class Solution {
             prev = curr;
         }
         return curr;
+        */
+    }
 
+    public int helper(int num){
+        if(num==0)
+            return 0;
+        if(num==1)
+            return points.getOrDefault(1,0);
+        
+        if(cache.containsKey(num))
+            return cache.get(num);
 
+        int ret = Math.max(helper(num-1), helper(num-2) + points.getOrDefault(num, 0));
+
+        cache.put(num, ret);
+        return ret;
     }
 }
