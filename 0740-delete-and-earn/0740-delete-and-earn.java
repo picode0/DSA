@@ -19,7 +19,10 @@ class Solution {
         }
 
         list.add(sum);
-
+        int[] memo = new int[list.size()];
+        Arrays.fill(memo, -1);
+        return dphelper(memo, list, 0);
+        /*
         if(list.size()==1)
             return list.get(0);
 
@@ -31,6 +34,20 @@ class Solution {
             dp[i] = Math.max(dp[i-1], dp[i-2]+list.get(i));
         }
         return dp[list.size()-1];
+        */
+
+    }
+
+    public int dphelper(int[] memo, List<Integer> list, int idx){
+        if(idx>=list.size())
+            return 0;
+        if(memo[idx]!=-1)
+            return memo[idx];
+
+        int ret = Math.max(dphelper(memo, list, idx+1), dphelper(memo, list, idx+2)+list.get(idx));
+
+        memo[idx] = ret;
+        return ret;
 
     }
 }
