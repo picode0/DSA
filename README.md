@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/picode0/DSA/tree/master/1895-largest-magic-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/picode0/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/picode0/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/picode0/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1975-maximum-matrix-sum](https://github.com/picode0/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/picode0/DSA/tree/master/1980-find-unique-binary-string) |
 | [2013-detect-squares](https://github.com/picode0/DSA/tree/master/2013-detect-squares) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/picode0/DSA/tree/master/1488-avoid-flood-in-the-city) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/picode0/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/picode0/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/picode0/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/picode0/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/picode0/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/picode0/DSA/tree/master/2439-minimize-maximum-of-array) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/picode0/DSA/tree/master/0406-queue-reconstruction-by-height) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/picode0/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1095,4 +1098,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/picode0/DSA/tree/master/0877-stone-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/picode0/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
